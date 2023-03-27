@@ -6,6 +6,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      aspectRatio:{
+        "portrait": '9 / 18',
+        '4/3': '4 / 3',
+      },
       fontFamily:{
         "sans":"Krasar",
         "pali":"Moulpali"
