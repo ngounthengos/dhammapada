@@ -15,10 +15,10 @@
 
 @font-face {
     font-family: "Moulpali";
-    font-weight: bold;
     size-adjust: 90%;
     src: url('/fonts/Moulpali-Regular.woff') format('woff'), url('/fonts/Moulpali-Regular.woff2') format('woff2');
 }
+
 @font-face {
     font-family: "Krasar";
     size-adjust: 110%;
@@ -26,7 +26,7 @@
 }
 
 @font-face {
-    font-family: "Boeung";
+    font-family: "Kboeung";
     size-adjust: 100%;
     src: url('/fonts/KhBoeung.woff') format('woff'), url('/fonts/KhBoeung.woff2') format('woff2');
 }
