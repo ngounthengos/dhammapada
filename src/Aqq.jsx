@@ -47,7 +47,7 @@ function Aqq() {
               setIsMix(false);
             }}
           >
-            បាលី
+            <pl>បាលី</pl>
           </div>
           <div
             className="bg-amber-200 rounded-md shadow-md flex justify-center items-center px-4 py-1 snap-start"

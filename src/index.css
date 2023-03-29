@@ -30,3 +30,6 @@
     size-adjust: 100%;
     src: url('/fonts/KhBoeung.woff') format('woff'), url('/fonts/KhBoeung.woff2') format('woff2');
 }
+pl {
+  font-family: "Moulpali" !important;
+}

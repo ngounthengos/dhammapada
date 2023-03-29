@@ -25,10 +25,10 @@ function App() {
             <p className="truncate">{text}</p>
           </div>
           <div className="px-4 py-1 bg-main rounded-lg shawdow-md snap-start">
-            <p className="truncate">រូបសិទ្ធិ</p>
+            <b className="truncate">រូបសិទ្ធិ</b>
           </div>
           <div className="px-4 py-1 bg-main rounded-lg shawdow-md snap-start">
-            <p className="truncate">រូបសិទ្ធិ</p>
+            <p className="truncate">រូបសិទ្ធិ</p>b
           </div>
           <div className="px-4 py-1 bg-main rounded-lg shawdow-md snap-start">
             <p className="truncate">រូបសិទ្ធិ</p>

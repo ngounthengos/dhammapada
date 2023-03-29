@@ -4,9 +4,10 @@ import App from "./App";
 import Aqq from "./Aqq";
 import Home from "./Home";
 import "./index.css";
+import Pali from "./Pali";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Aqq />
+    <Pali />
   </React.StrictMode>
 );
